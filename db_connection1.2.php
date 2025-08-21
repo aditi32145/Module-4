@@ -1,4 +1,5 @@
 <?php
+// Declare db connection variables at top
 $host = "localhost";
 $dbname = "student_db";
 $username = "root";
@@ -18,4 +19,5 @@ $conn->set_charset("utf8");
 // Success message
 echo "Database Connected Successfully!";
 ?>
+
 <!-- http://localhost/Module-4/db_connection1.php -->

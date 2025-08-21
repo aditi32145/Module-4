@@ -1,4 +1,5 @@
 <?php
+// Declare db connection variables at top
 $host = "localhost";
 $dbname = "student_db";
 $username = "root";
